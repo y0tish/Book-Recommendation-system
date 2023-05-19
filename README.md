@@ -1,1 +1,2 @@
 # Book-Recommendation-system
+This project involved data preprocessing, exploratory data analysis, and the implementation of popularity-based and collaborative filtering recommendation systems. We leveraged various techniques such as cosine similarity, KNN, and SVD to provide personalized book recommendations to users. The project showcased the importance of data cleaning, analysis, and model selection in building an effective recommendation system.
